@@ -1,0 +1,1 @@
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Debug\netcoreapp2.1\win7-x64\CoreWindowsService.csprojAssemblyReference.cache

@@ -1,0 +1,14 @@
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Release\netcoreapp2.2\win7-x64\hostpolicy.dll
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Release\netcoreapp2.2\win7-x64\hostfxr.dll
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Release\netcoreapp2.2\win7-x64\CoreWindowsService.exe
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Release\netcoreapp2.2\win7-x64\CoreWindowsService.deps.json
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Release\netcoreapp2.2\win7-x64\CoreWindowsService.runtimeconfig.json
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Release\netcoreapp2.2\win7-x64\CoreWindowsService.runtimeconfig.dev.json
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Release\netcoreapp2.2\win7-x64\CoreWindowsService.dll
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Release\netcoreapp2.2\win7-x64\CoreWindowsService.pdb
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Release\netcoreapp2.2\win7-x64\CoreWindowsService.csprojAssemblyReference.cache
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Release\netcoreapp2.2\win7-x64\CoreWindowsService.csproj.CoreCompileInputs.cache
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Release\netcoreapp2.2\win7-x64\CoreWindowsService.AssemblyInfoInputs.cache
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Release\netcoreapp2.2\win7-x64\CoreWindowsService.AssemblyInfo.cs
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Release\netcoreapp2.2\win7-x64\CoreWindowsService.dll
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Release\netcoreapp2.2\win7-x64\CoreWindowsService.pdb

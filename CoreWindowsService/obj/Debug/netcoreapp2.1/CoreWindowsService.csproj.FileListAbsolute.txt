@@ -1,0 +1,11 @@
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Debug\netcoreapp2.1\CoreWindowsService.deps.json
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Debug\netcoreapp2.1\CoreWindowsService.runtimeconfig.json
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Debug\netcoreapp2.1\CoreWindowsService.runtimeconfig.dev.json
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Debug\netcoreapp2.1\CoreWindowsService.dll
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Debug\netcoreapp2.1\CoreWindowsService.csprojAssemblyReference.cache
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Debug\netcoreapp2.1\CoreWindowsService.csproj.CoreCompileInputs.cache
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Debug\netcoreapp2.1\CoreWindowsService.AssemblyInfoInputs.cache
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Debug\netcoreapp2.1\CoreWindowsService.AssemblyInfo.cs
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\bin\Debug\netcoreapp2.1\CoreWindowsService.pdb
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Debug\netcoreapp2.1\CoreWindowsService.dll
+D:\Practice\Core\CoreWindowsService\CoreWindowsService\obj\Debug\netcoreapp2.1\CoreWindowsService.pdb
